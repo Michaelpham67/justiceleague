@@ -1,0 +1,209 @@
+/* This is a CSS comment */
+
+.maindiv {
+    background: url("img/jlwallpaper.jpg") no-repeat; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:ghostwhite;
+    font-family: 'Bitter', serif;
+    font-size: 1.25em;
+    text-align: justify;
+    
+}
+
+#topdiv {
+    background-color: #4C5164;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Bitter', serif;
+    font-size: 1.25em;
+    text-align: justify;
+    
+}
+
+#footerdiv {
+    background: url('blackbackground.jpg'); 
+    font-family: 'Bitter', serif;
+    font-family: "Helvetica";
+    font-size: 1em;
+    
+}
+
+.footerpic {
+    height: 2em;
+    padding: 0.5em 0em 0em 0em;
+    width: 2em;
+    
+}
+
+#parentdiv {
+    margin: 10px;
+    overflow: auto;
+    padding: 10px;
+    
+}
+
+.big-headers {
+    color:darkblue;
+    font-family: "Helvetica";
+    font-variant: small-caps;
+    padding: 0px 0px 0px 0px;
+    font-size: 3em;
+    text-shadow: 2px 2px 4px #ffff00;
+    text-align: center;
+    
+}
+
+.lineheight1 {
+    line-height: 1.5em;
+    margin: 0em 0em 0.5em 0em;
+    
+}
+
+#lineheight3 {
+    font-variant: small-caps;
+    line-height: 0.3em;
+    margin: 0.5em;
+    text-shadow: 5px 5px 2px ghostwhite;
+    
+}
+
+#lineheight2 {
+    color: ghostwhite;
+    font-weight: 100;
+    line-height: 0.3em;
+    text-indent: 2em;
+    
+}
+
+h3 {
+    color:darkblue;
+    font-variant: small-caps;
+    text-align: justify;
+    text-indent: 1%;
+    
+}
+
+#headers {
+    color:darkblue;
+    font-family: "Helvetica";
+    font-variant: small-caps;
+    font-weight: 550;
+    text-shadow: 2px 2px 6px #ffff00;
+    text-decoration: underline;
+
+}
+
+#footer1 {
+    color:ghostwhite;
+    clear: both;
+    display: inline;
+    font-family: "Helvetica";
+    font-size: 1.25em;
+    letter-spacing: 1em;
+    padding: 0em 0em 0em 12em;
+    text-shadow: 6px 6px 8px lightblue;
+    text-align: center;
+    
+}
+
+#batcavemap {
+    padding: 0.5em 0em 0em 0em;
+    
+}
+
+#batmanvid {
+    margin: 0.5em;
+    
+}
+
+aside {
+    clear: left;
+    float: right;
+    padding: 0px 50px 0px 0px;
+    
+}
+
+body {
+  background-image: url("img/blackbackground.jpg");  
+    
+}
+
+.stripped-ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.nav-li {
+    display: inline-block;
+    margin-right: 1px;
+    
+}
+
+#nav1 {
+    float: right;
+    padding: 1em 1em 0em 0em;
+    
+}
+
+
+
+a {
+    margin: 0.5em;
+    
+}
+
+a:link {
+  color: #003399;
+    
+}
+
+/* visited link */
+a:visited {
+  color: goldenrod;
+    
+}
+
+/* mouse over link */
+a:hover {
+  color: lightyellow;
+    
+}
+
+/* selected link */
+a:active {
+  color: ghostwhite;
+    
+}
+
+#bm:hover {
+    color: slategray;
+    
+}
+#sm:hover {
+    color: red;
+    
+}
+#ww:hover {
+    color: goldenrod;
+    
+}
+#tf:hover {
+    color: orangered;
+    
+}
+#gl:hover {
+    color: lightgreen;
+    
+}
+#am:hover {
+    color: darkturquoise;
+    
+}
+#cy:hover {
+    color: mediumpurple;
+    
+}
