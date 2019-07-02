@@ -1,11 +1,11 @@
 /* This is a CSS comment */
 
 .maindiv {
+    color:ghostwhite;
     background: url("img/jlwallpaper.jpg") no-repeat; 
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    color:ghostwhite;
     font-family: 'Bitter', serif;
     font-size: 1.25em;
     text-align: justify;
@@ -48,8 +48,8 @@
     color:darkblue;
     font-family: "Helvetica";
     font-variant: small-caps;
-    padding: 0px 0px 0px 0px;
     font-size: 3em;
+    padding: 0px 0px 0px 0px;
     text-shadow: 2px 2px 4px #ffff00;
     text-align: center;
     
@@ -96,8 +96,8 @@ h3 {
 }
 
 #footer1 {
-    color:ghostwhite;
     clear: both;
+    color:ghostwhite;
     display: inline;
     font-family: "Helvetica";
     font-size: 1.25em;
