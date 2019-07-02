@@ -85,11 +85,11 @@ h3 {
     
 }
 
-#headers {
+.stats-headers {
     color:darkblue;
     font-family: "Helvetica";
     font-variant: small-caps;
-    font-weight: 550;
+    font-weight: 600;
     text-shadow: 2px 2px 6px #ffff00;
     text-decoration: underline;
 
